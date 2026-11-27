@@ -1,0 +1,4 @@
+Approach,Trainable params,Total time (s),Best-epoch train acc,Val acc,Test acc,Macro F1
+full_finetune,"1,555,781",663.2,0.9028,0.8460,0.7716,0.7660
+head_train,"628,773",380.8,0.8737,0.8351,0.7915,0.7888
+feature_extraction,0,69.9,-,0.8659,0.8460,0.8446
