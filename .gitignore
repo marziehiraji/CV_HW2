@@ -1,0 +1,27 @@
+# data (do not redistribute - download via torchvision)
+data/
+oxford-iiit-pet/
+
+# downloaded archives
+*.tar.gz
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+
+# editor
+.idea/
+.vscode/
+.DS_Store
+
+# outputs (regenerable)
+results/figures/*.png
+*.log.txt
+.ipynb_checkpoints/
+
+# keep checkpoints and results JSON, splits JSON in the repo so the report is reproducible

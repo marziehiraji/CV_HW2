@@ -1,0 +1,8 @@
+How to run HW2:
+
+unzip HomeWork2.zip
+cd pet_clf_code
+pip install -r requirements.txt
+python run.py
+
+Inside the HW2 folders, there is a file named `download_data.py`. Running this script will download the dataset. To run the codes, the data should be placed in the directory: `pet_clf_code\data\oxford-iiit-pet`. The results are available in the report.
