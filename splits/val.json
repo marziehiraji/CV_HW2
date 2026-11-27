@@ -1,0 +1,2214 @@
+{
+  "split": "val",
+  "seed": 42,
+  "items": [
+    {
+      "file": "american_bulldog_107",
+      "label": 1
+    },
+    {
+      "file": "saint_bernard_121",
+      "label": 28
+    },
+    {
+      "file": "english_cocker_spaniel_103",
+      "label": 12
+    },
+    {
+      "file": "english_cocker_spaniel_185",
+      "label": 12
+    },
+    {
+      "file": "yorkshire_terrier_128",
+      "label": 36
+    },
+    {
+      "file": "german_shorthaired_119",
+      "label": 14
+    },
+    {
+      "file": "Abyssinian_11",
+      "label": 0
+    },
+    {
+      "file": "miniature_pinscher_15",
+      "label": 21
+    },
+    {
+      "file": "chihuahua_136",
+      "label": 10
+    },
+    {
+      "file": "Sphynx_15",
+      "label": 33
+    },
+    {
+      "file": "Maine_Coon_206",
+      "label": 20
+    },
+    {
+      "file": "samoyed_115",
+      "label": 29
+    },
+    {
+      "file": "Siamese_206",
+      "label": 32
+    },
+    {
+      "file": "english_setter_169",
+      "label": 13
+    },
+    {
+      "file": "British_Shorthair_124",
+      "label": 9
+    },
+    {
+      "file": "american_bulldog_137",
+      "label": 1
+    },
+    {
+      "file": "Egyptian_Mau_128",
+      "label": 11
+    },
+    {
+      "file": "pug_148",
+      "label": 25
+    },
+    {
+      "file": "saint_bernard_100",
+      "label": 28
+    },
+    {
+      "file": "saint_bernard_190",
+      "label": 28
+    },
+    {
+      "file": "Bombay_10",
+      "label": 7
+    },
+    {
+      "file": "japanese_chin_190",
+      "label": 17
+    },
+    {
+      "file": "chihuahua_154",
+      "label": 10
+    },
+    {
+      "file": "basset_hound_169",
+      "label": 3
+    },
+    {
+      "file": "Birman_149",
+      "label": 6
+    },
+    {
+      "file": "german_shorthaired_179",
+      "label": 14
+    },
+    {
+      "file": "Abyssinian_183",
+      "label": 0
+    },
+    {
+      "file": "basset_hound_182",
+      "label": 3
+    },
+    {
+      "file": "pug_135",
+      "label": 25
+    },
+    {
+      "file": "saint_bernard_167",
+      "label": 28
+    },
+    {
+      "file": "german_shorthaired_163",
+      "label": 14
+    },
+    {
+      "file": "basset_hound_125",
+      "label": 3
+    },
+    {
+      "file": "wheaten_terrier_12",
+      "label": 35
+    },
+    {
+      "file": "keeshond_141",
+      "label": 18
+    },
+    {
+      "file": "shiba_inu_199",
+      "label": 31
+    },
+    {
+      "file": "newfoundland_119",
+      "label": 22
+    },
+    {
+      "file": "pomeranian_111",
+      "label": 24
+    },
+    {
+      "file": "Russian_Blue_184",
+      "label": 27
+    },
+    {
+      "file": "Siamese_194",
+      "label": 32
+    },
+    {
+      "file": "British_Shorthair_195",
+      "label": 9
+    },
+    {
+      "file": "pomeranian_110",
+      "label": 24
+    },
+    {
+      "file": "pomeranian_140",
+      "label": 24
+    },
+    {
+      "file": "english_setter_190",
+      "label": 13
+    },
+    {
+      "file": "great_pyrenees_133",
+      "label": 15
+    },
+    {
+      "file": "yorkshire_terrier_155",
+      "label": 36
+    },
+    {
+      "file": "Bombay_183",
+      "label": 7
+    },
+    {
+      "file": "basset_hound_146",
+      "label": 3
+    },
+    {
+      "file": "newfoundland_11",
+      "label": 22
+    },
+    {
+      "file": "Sphynx_148",
+      "label": 33
+    },
+    {
+      "file": "american_pit_bull_terrier_101",
+      "label": 2
+    },
+    {
+      "file": "Maine_Coon_149",
+      "label": 20
+    },
+    {
+      "file": "havanese_17",
+      "label": 16
+    },
+    {
+      "file": "leonberger_102",
+      "label": 19
+    },
+    {
+      "file": "staffordshire_bull_terrier_1",
+      "label": 34
+    },
+    {
+      "file": "Bombay_163",
+      "label": 7
+    },
+    {
+      "file": "miniature_pinscher_188",
+      "label": 21
+    },
+    {
+      "file": "pomeranian_161",
+      "label": 24
+    },
+    {
+      "file": "Siamese_103",
+      "label": 32
+    },
+    {
+      "file": "saint_bernard_135",
+      "label": 28
+    },
+    {
+      "file": "shiba_inu_190",
+      "label": 31
+    },
+    {
+      "file": "havanese_172",
+      "label": 16
+    },
+    {
+      "file": "Ragdoll_112",
+      "label": 26
+    },
+    {
+      "file": "British_Shorthair_119",
+      "label": 9
+    },
+    {
+      "file": "Russian_Blue_159",
+      "label": 27
+    },
+    {
+      "file": "Russian_Blue_103",
+      "label": 27
+    },
+    {
+      "file": "Birman_167",
+      "label": 6
+    },
+    {
+      "file": "boxer_18",
+      "label": 8
+    },
+    {
+      "file": "keeshond_118",
+      "label": 18
+    },
+    {
+      "file": "american_pit_bull_terrier_187",
+      "label": 2
+    },
+    {
+      "file": "german_shorthaired_122",
+      "label": 14
+    },
+    {
+      "file": "Ragdoll_125",
+      "label": 26
+    },
+    {
+      "file": "wheaten_terrier_120",
+      "label": 35
+    },
+    {
+      "file": "shiba_inu_170",
+      "label": 31
+    },
+    {
+      "file": "american_bulldog_176",
+      "label": 1
+    },
+    {
+      "file": "american_pit_bull_terrier_129",
+      "label": 2
+    },
+    {
+      "file": "japanese_chin_126",
+      "label": 17
+    },
+    {
+      "file": "British_Shorthair_176",
+      "label": 9
+    },
+    {
+      "file": "boxer_107",
+      "label": 8
+    },
+    {
+      "file": "pomeranian_186",
+      "label": 24
+    },
+    {
+      "file": "Maine_Coon_153",
+      "label": 20
+    },
+    {
+      "file": "boxer_168",
+      "label": 8
+    },
+    {
+      "file": "staffordshire_bull_terrier_103",
+      "label": 34
+    },
+    {
+      "file": "japanese_chin_103",
+      "label": 17
+    },
+    {
+      "file": "pomeranian_129",
+      "label": 24
+    },
+    {
+      "file": "wheaten_terrier_123",
+      "label": 35
+    },
+    {
+      "file": "staffordshire_bull_terrier_174",
+      "label": 34
+    },
+    {
+      "file": "staffordshire_bull_terrier_127",
+      "label": 34
+    },
+    {
+      "file": "english_cocker_spaniel_129",
+      "label": 12
+    },
+    {
+      "file": "Birman_180",
+      "label": 6
+    },
+    {
+      "file": "Persian_125",
+      "label": 23
+    },
+    {
+      "file": "beagle_152",
+      "label": 4
+    },
+    {
+      "file": "scottish_terrier_103",
+      "label": 30
+    },
+    {
+      "file": "samoyed_146",
+      "label": 29
+    },
+    {
+      "file": "Russian_Blue_127",
+      "label": 27
+    },
+    {
+      "file": "chihuahua_138",
+      "label": 10
+    },
+    {
+      "file": "wheaten_terrier_156",
+      "label": 35
+    },
+    {
+      "file": "american_bulldog_200",
+      "label": 1
+    },
+    {
+      "file": "miniature_pinscher_123",
+      "label": 21
+    },
+    {
+      "file": "english_cocker_spaniel_102",
+      "label": 12
+    },
+    {
+      "file": "yorkshire_terrier_15",
+      "label": 36
+    },
+    {
+      "file": "newfoundland_132",
+      "label": 22
+    },
+    {
+      "file": "saint_bernard_176",
+      "label": 28
+    },
+    {
+      "file": "leonberger_105",
+      "label": 19
+    },
+    {
+      "file": "Bombay_148",
+      "label": 7
+    },
+    {
+      "file": "basset_hound_134",
+      "label": 3
+    },
+    {
+      "file": "British_Shorthair_200",
+      "label": 9
+    },
+    {
+      "file": "american_pit_bull_terrier_100",
+      "label": 2
+    },
+    {
+      "file": "shiba_inu_142",
+      "label": 31
+    },
+    {
+      "file": "scottish_terrier_119",
+      "label": 30
+    },
+    {
+      "file": "pomeranian_171",
+      "label": 24
+    },
+    {
+      "file": "american_pit_bull_terrier_150",
+      "label": 2
+    },
+    {
+      "file": "Bombay_161",
+      "label": 7
+    },
+    {
+      "file": "chihuahua_104",
+      "label": 10
+    },
+    {
+      "file": "german_shorthaired_113",
+      "label": 14
+    },
+    {
+      "file": "yorkshire_terrier_175",
+      "label": 36
+    },
+    {
+      "file": "german_shorthaired_123",
+      "label": 14
+    },
+    {
+      "file": "pug_108",
+      "label": 25
+    },
+    {
+      "file": "Siamese_157",
+      "label": 32
+    },
+    {
+      "file": "Egyptian_Mau_108",
+      "label": 11
+    },
+    {
+      "file": "Maine_Coon_148",
+      "label": 20
+    },
+    {
+      "file": "miniature_pinscher_143",
+      "label": 21
+    },
+    {
+      "file": "basset_hound_153",
+      "label": 3
+    },
+    {
+      "file": "Persian_107",
+      "label": 23
+    },
+    {
+      "file": "keeshond_149",
+      "label": 18
+    },
+    {
+      "file": "american_bulldog_106",
+      "label": 1
+    },
+    {
+      "file": "samoyed_186",
+      "label": 29
+    },
+    {
+      "file": "american_pit_bull_terrier_181",
+      "label": 2
+    },
+    {
+      "file": "beagle_129",
+      "label": 4
+    },
+    {
+      "file": "staffordshire_bull_terrier_123",
+      "label": 34
+    },
+    {
+      "file": "Ragdoll_181",
+      "label": 26
+    },
+    {
+      "file": "havanese_136",
+      "label": 16
+    },
+    {
+      "file": "Birman_182",
+      "label": 6
+    },
+    {
+      "file": "great_pyrenees_144",
+      "label": 15
+    },
+    {
+      "file": "saint_bernard_119",
+      "label": 28
+    },
+    {
+      "file": "Birman_117",
+      "label": 6
+    },
+    {
+      "file": "Abyssinian_101",
+      "label": 0
+    },
+    {
+      "file": "newfoundland_144",
+      "label": 22
+    },
+    {
+      "file": "samoyed_101",
+      "label": 29
+    },
+    {
+      "file": "Bombay_116",
+      "label": 7
+    },
+    {
+      "file": "Sphynx_185",
+      "label": 33
+    },
+    {
+      "file": "great_pyrenees_163",
+      "label": 15
+    },
+    {
+      "file": "english_setter_189",
+      "label": 13
+    },
+    {
+      "file": "saint_bernard_144",
+      "label": 28
+    },
+    {
+      "file": "pomeranian_170",
+      "label": 24
+    },
+    {
+      "file": "Egyptian_Mau_126",
+      "label": 11
+    },
+    {
+      "file": "yorkshire_terrier_130",
+      "label": 36
+    },
+    {
+      "file": "beagle_112",
+      "label": 4
+    },
+    {
+      "file": "wheaten_terrier_163",
+      "label": 35
+    },
+    {
+      "file": "english_setter_116",
+      "label": 13
+    },
+    {
+      "file": "beagle_118",
+      "label": 4
+    },
+    {
+      "file": "Siamese_127",
+      "label": 32
+    },
+    {
+      "file": "Egyptian_Mau_181",
+      "label": 11
+    },
+    {
+      "file": "Sphynx_11",
+      "label": 33
+    },
+    {
+      "file": "miniature_pinscher_104",
+      "label": 21
+    },
+    {
+      "file": "american_pit_bull_terrier_163",
+      "label": 2
+    },
+    {
+      "file": "shiba_inu_127",
+      "label": 31
+    },
+    {
+      "file": "British_Shorthair_16",
+      "label": 9
+    },
+    {
+      "file": "Birman_155",
+      "label": 6
+    },
+    {
+      "file": "Ragdoll_116",
+      "label": 26
+    },
+    {
+      "file": "Sphynx_186",
+      "label": 33
+    },
+    {
+      "file": "pomeranian_190",
+      "label": 24
+    },
+    {
+      "file": "samoyed_189",
+      "label": 29
+    },
+    {
+      "file": "Bengal_182",
+      "label": 5
+    },
+    {
+      "file": "havanese_153",
+      "label": 16
+    },
+    {
+      "file": "Egyptian_Mau_134",
+      "label": 11
+    },
+    {
+      "file": "great_pyrenees_157",
+      "label": 15
+    },
+    {
+      "file": "Ragdoll_176",
+      "label": 26
+    },
+    {
+      "file": "havanese_143",
+      "label": 16
+    },
+    {
+      "file": "Ragdoll_162",
+      "label": 26
+    },
+    {
+      "file": "english_setter_115",
+      "label": 13
+    },
+    {
+      "file": "Birman_178",
+      "label": 6
+    },
+    {
+      "file": "havanese_12",
+      "label": 16
+    },
+    {
+      "file": "scottish_terrier_157",
+      "label": 30
+    },
+    {
+      "file": "american_pit_bull_terrier_14",
+      "label": 2
+    },
+    {
+      "file": "english_setter_179",
+      "label": 13
+    },
+    {
+      "file": "Egyptian_Mau_120",
+      "label": 11
+    },
+    {
+      "file": "miniature_pinscher_110",
+      "label": 21
+    },
+    {
+      "file": "beagle_108",
+      "label": 4
+    },
+    {
+      "file": "shiba_inu_120",
+      "label": 31
+    },
+    {
+      "file": "basset_hound_178",
+      "label": 3
+    },
+    {
+      "file": "shiba_inu_157",
+      "label": 31
+    },
+    {
+      "file": "Bombay_158",
+      "label": 7
+    },
+    {
+      "file": "english_setter_177",
+      "label": 13
+    },
+    {
+      "file": "Birman_164",
+      "label": 6
+    },
+    {
+      "file": "great_pyrenees_166",
+      "label": 15
+    },
+    {
+      "file": "miniature_pinscher_122",
+      "label": 21
+    },
+    {
+      "file": "great_pyrenees_150",
+      "label": 15
+    },
+    {
+      "file": "basset_hound_127",
+      "label": 3
+    },
+    {
+      "file": "american_bulldog_131",
+      "label": 1
+    },
+    {
+      "file": "english_cocker_spaniel_157",
+      "label": 12
+    },
+    {
+      "file": "keeshond_189",
+      "label": 18
+    },
+    {
+      "file": "staffordshire_bull_terrier_189",
+      "label": 34
+    },
+    {
+      "file": "pug_186",
+      "label": 25
+    },
+    {
+      "file": "saint_bernard_158",
+      "label": 28
+    },
+    {
+      "file": "Birman_128",
+      "label": 6
+    },
+    {
+      "file": "Birman_140",
+      "label": 6
+    },
+    {
+      "file": "pug_111",
+      "label": 25
+    },
+    {
+      "file": "Siamese_174",
+      "label": 32
+    },
+    {
+      "file": "Persian_104",
+      "label": 23
+    },
+    {
+      "file": "chihuahua_103",
+      "label": 10
+    },
+    {
+      "file": "great_pyrenees_153",
+      "label": 15
+    },
+    {
+      "file": "scottish_terrier_125",
+      "label": 30
+    },
+    {
+      "file": "chihuahua_133",
+      "label": 10
+    },
+    {
+      "file": "Bengal_167",
+      "label": 5
+    },
+    {
+      "file": "Siamese_200",
+      "label": 32
+    },
+    {
+      "file": "staffordshire_bull_terrier_158",
+      "label": 34
+    },
+    {
+      "file": "Persian_118",
+      "label": 23
+    },
+    {
+      "file": "wheaten_terrier_143",
+      "label": 35
+    },
+    {
+      "file": "staffordshire_bull_terrier_167",
+      "label": 34
+    },
+    {
+      "file": "Ragdoll_158",
+      "label": 26
+    },
+    {
+      "file": "Siamese_161",
+      "label": 32
+    },
+    {
+      "file": "wheaten_terrier_184",
+      "label": 35
+    },
+    {
+      "file": "Ragdoll_134",
+      "label": 26
+    },
+    {
+      "file": "havanese_182",
+      "label": 16
+    },
+    {
+      "file": "Egyptian_Mau_100",
+      "label": 11
+    },
+    {
+      "file": "Persian_201",
+      "label": 23
+    },
+    {
+      "file": "shiba_inu_196",
+      "label": 31
+    },
+    {
+      "file": "japanese_chin_111",
+      "label": 17
+    },
+    {
+      "file": "samoyed_177",
+      "label": 29
+    },
+    {
+      "file": "Ragdoll_128",
+      "label": 26
+    },
+    {
+      "file": "beagle_14",
+      "label": 4
+    },
+    {
+      "file": "english_setter_134",
+      "label": 13
+    },
+    {
+      "file": "Ragdoll_119",
+      "label": 26
+    },
+    {
+      "file": "yorkshire_terrier_189",
+      "label": 36
+    },
+    {
+      "file": "Birman_132",
+      "label": 6
+    },
+    {
+      "file": "chihuahua_177",
+      "label": 10
+    },
+    {
+      "file": "japanese_chin_135",
+      "label": 17
+    },
+    {
+      "file": "american_pit_bull_terrier_148",
+      "label": 2
+    },
+    {
+      "file": "Abyssinian_1",
+      "label": 0
+    },
+    {
+      "file": "Ragdoll_1",
+      "label": 26
+    },
+    {
+      "file": "Ragdoll_141",
+      "label": 26
+    },
+    {
+      "file": "samoyed_104",
+      "label": 29
+    },
+    {
+      "file": "Egyptian_Mau_170",
+      "label": 11
+    },
+    {
+      "file": "leonberger_146",
+      "label": 19
+    },
+    {
+      "file": "samoyed_114",
+      "label": 29
+    },
+    {
+      "file": "Russian_Blue_200",
+      "label": 27
+    },
+    {
+      "file": "Maine_Coon_219",
+      "label": 20
+    },
+    {
+      "file": "basset_hound_107",
+      "label": 3
+    },
+    {
+      "file": "shiba_inu_105",
+      "label": 31
+    },
+    {
+      "file": "english_setter_163",
+      "label": 13
+    },
+    {
+      "file": "saint_bernard_133",
+      "label": 28
+    },
+    {
+      "file": "British_Shorthair_133",
+      "label": 9
+    },
+    {
+      "file": "japanese_chin_168",
+      "label": 17
+    },
+    {
+      "file": "Abyssinian_191",
+      "label": 0
+    },
+    {
+      "file": "miniature_pinscher_18",
+      "label": 21
+    },
+    {
+      "file": "beagle_157",
+      "label": 4
+    },
+    {
+      "file": "english_cocker_spaniel_107",
+      "label": 12
+    },
+    {
+      "file": "Egyptian_Mau_140",
+      "label": 11
+    },
+    {
+      "file": "chihuahua_116",
+      "label": 10
+    },
+    {
+      "file": "american_bulldog_143",
+      "label": 1
+    },
+    {
+      "file": "english_setter_168",
+      "label": 13
+    },
+    {
+      "file": "leonberger_132",
+      "label": 19
+    },
+    {
+      "file": "Maine_Coon_161",
+      "label": 20
+    },
+    {
+      "file": "american_bulldog_12",
+      "label": 1
+    },
+    {
+      "file": "Persian_206",
+      "label": 23
+    },
+    {
+      "file": "keeshond_129",
+      "label": 18
+    },
+    {
+      "file": "boxer_114",
+      "label": 8
+    },
+    {
+      "file": "Bengal_161",
+      "label": 5
+    },
+    {
+      "file": "Bengal_107",
+      "label": 5
+    },
+    {
+      "file": "chihuahua_170",
+      "label": 10
+    },
+    {
+      "file": "Bombay_126",
+      "label": 7
+    },
+    {
+      "file": "Bengal_152",
+      "label": 5
+    },
+    {
+      "file": "japanese_chin_129",
+      "label": 17
+    },
+    {
+      "file": "pug_100",
+      "label": 25
+    },
+    {
+      "file": "leonberger_138",
+      "label": 19
+    },
+    {
+      "file": "Birman_115",
+      "label": 6
+    },
+    {
+      "file": "wheaten_terrier_124",
+      "label": 35
+    },
+    {
+      "file": "japanese_chin_113",
+      "label": 17
+    },
+    {
+      "file": "leonberger_116",
+      "label": 19
+    },
+    {
+      "file": "english_cocker_spaniel_16",
+      "label": 12
+    },
+    {
+      "file": "Abyssinian_121",
+      "label": 0
+    },
+    {
+      "file": "pomeranian_154",
+      "label": 24
+    },
+    {
+      "file": "miniature_pinscher_177",
+      "label": 21
+    },
+    {
+      "file": "miniature_pinscher_165",
+      "label": 21
+    },
+    {
+      "file": "yorkshire_terrier_182",
+      "label": 36
+    },
+    {
+      "file": "samoyed_151",
+      "label": 29
+    },
+    {
+      "file": "german_shorthaired_188",
+      "label": 14
+    },
+    {
+      "file": "havanese_189",
+      "label": 16
+    },
+    {
+      "file": "keeshond_183",
+      "label": 18
+    },
+    {
+      "file": "yorkshire_terrier_188",
+      "label": 36
+    },
+    {
+      "file": "german_shorthaired_153",
+      "label": 14
+    },
+    {
+      "file": "american_pit_bull_terrier_117",
+      "label": 2
+    },
+    {
+      "file": "Bengal_187",
+      "label": 5
+    },
+    {
+      "file": "Abyssinian_168",
+      "label": 0
+    },
+    {
+      "file": "staffordshire_bull_terrier_147",
+      "label": 34
+    },
+    {
+      "file": "chihuahua_112",
+      "label": 10
+    },
+    {
+      "file": "staffordshire_bull_terrier_141",
+      "label": 34
+    },
+    {
+      "file": "english_cocker_spaniel_14",
+      "label": 12
+    },
+    {
+      "file": "english_setter_122",
+      "label": 13
+    },
+    {
+      "file": "scottish_terrier_114",
+      "label": 30
+    },
+    {
+      "file": "yorkshire_terrier_136",
+      "label": 36
+    },
+    {
+      "file": "Egyptian_Mau_150",
+      "label": 11
+    },
+    {
+      "file": "american_bulldog_184",
+      "label": 1
+    },
+    {
+      "file": "beagle_104",
+      "label": 4
+    },
+    {
+      "file": "Bengal_141",
+      "label": 5
+    },
+    {
+      "file": "wheaten_terrier_14",
+      "label": 35
+    },
+    {
+      "file": "miniature_pinscher_125",
+      "label": 21
+    },
+    {
+      "file": "Persian_102",
+      "label": 23
+    },
+    {
+      "file": "leonberger_189",
+      "label": 19
+    },
+    {
+      "file": "yorkshire_terrier_114",
+      "label": 36
+    },
+    {
+      "file": "miniature_pinscher_133",
+      "label": 21
+    },
+    {
+      "file": "great_pyrenees_155",
+      "label": 15
+    },
+    {
+      "file": "Egyptian_Mau_174",
+      "label": 11
+    },
+    {
+      "file": "saint_bernard_181",
+      "label": 28
+    },
+    {
+      "file": "japanese_chin_188",
+      "label": 17
+    },
+    {
+      "file": "german_shorthaired_180",
+      "label": 14
+    },
+    {
+      "file": "Persian_20",
+      "label": 23
+    },
+    {
+      "file": "Maine_Coon_134",
+      "label": 20
+    },
+    {
+      "file": "beagle_115",
+      "label": 4
+    },
+    {
+      "file": "leonberger_152",
+      "label": 19
+    },
+    {
+      "file": "great_pyrenees_110",
+      "label": 15
+    },
+    {
+      "file": "miniature_pinscher_184",
+      "label": 21
+    },
+    {
+      "file": "newfoundland_177",
+      "label": 22
+    },
+    {
+      "file": "great_pyrenees_135",
+      "label": 15
+    },
+    {
+      "file": "Siamese_179",
+      "label": 32
+    },
+    {
+      "file": "american_bulldog_104",
+      "label": 1
+    },
+    {
+      "file": "Sphynx_146",
+      "label": 33
+    },
+    {
+      "file": "Sphynx_184",
+      "label": 33
+    },
+    {
+      "file": "american_pit_bull_terrier_168",
+      "label": 2
+    },
+    {
+      "file": "scottish_terrier_108",
+      "label": 30
+    },
+    {
+      "file": "Bombay_184",
+      "label": 7
+    },
+    {
+      "file": "beagle_150",
+      "label": 4
+    },
+    {
+      "file": "leonberger_136",
+      "label": 19
+    },
+    {
+      "file": "Maine_Coon_155",
+      "label": 20
+    },
+    {
+      "file": "samoyed_163",
+      "label": 29
+    },
+    {
+      "file": "havanese_117",
+      "label": 16
+    },
+    {
+      "file": "miniature_pinscher_171",
+      "label": 21
+    },
+    {
+      "file": "german_shorthaired_173",
+      "label": 14
+    },
+    {
+      "file": "scottish_terrier_117",
+      "label": 30
+    },
+    {
+      "file": "leonberger_135",
+      "label": 19
+    },
+    {
+      "file": "american_pit_bull_terrier_13",
+      "label": 2
+    },
+    {
+      "file": "basset_hound_11",
+      "label": 3
+    },
+    {
+      "file": "beagle_105",
+      "label": 4
+    },
+    {
+      "file": "havanese_16",
+      "label": 16
+    },
+    {
+      "file": "wheaten_terrier_187",
+      "label": 35
+    },
+    {
+      "file": "boxer_179",
+      "label": 8
+    },
+    {
+      "file": "Russian_Blue_197",
+      "label": 27
+    },
+    {
+      "file": "newfoundland_117",
+      "label": 22
+    },
+    {
+      "file": "Persian_190",
+      "label": 23
+    },
+    {
+      "file": "pomeranian_118",
+      "label": 24
+    },
+    {
+      "file": "scottish_terrier_100",
+      "label": 30
+    },
+    {
+      "file": "Russian_Blue_139",
+      "label": 27
+    },
+    {
+      "file": "pug_127",
+      "label": 25
+    },
+    {
+      "file": "Persian_217",
+      "label": 23
+    },
+    {
+      "file": "Bengal_131",
+      "label": 5
+    },
+    {
+      "file": "shiba_inu_134",
+      "label": 31
+    },
+    {
+      "file": "yorkshire_terrier_111",
+      "label": 36
+    },
+    {
+      "file": "scottish_terrier_10",
+      "label": 30
+    },
+    {
+      "file": "Sphynx_173",
+      "label": 33
+    },
+    {
+      "file": "yorkshire_terrier_150",
+      "label": 36
+    },
+    {
+      "file": "samoyed_18",
+      "label": 29
+    },
+    {
+      "file": "Persian_19",
+      "label": 23
+    },
+    {
+      "file": "Sphynx_203",
+      "label": 33
+    },
+    {
+      "file": "american_bulldog_175",
+      "label": 1
+    },
+    {
+      "file": "Egyptian_Mau_10",
+      "label": 11
+    },
+    {
+      "file": "Maine_Coon_147",
+      "label": 20
+    },
+    {
+      "file": "Sphynx_14",
+      "label": 33
+    },
+    {
+      "file": "Sphynx_176",
+      "label": 33
+    },
+    {
+      "file": "newfoundland_116",
+      "label": 22
+    },
+    {
+      "file": "havanese_18",
+      "label": 16
+    },
+    {
+      "file": "havanese_180",
+      "label": 16
+    },
+    {
+      "file": "Russian_Blue_115",
+      "label": 27
+    },
+    {
+      "file": "japanese_chin_142",
+      "label": 17
+    },
+    {
+      "file": "pomeranian_128",
+      "label": 24
+    },
+    {
+      "file": "leonberger_130",
+      "label": 19
+    },
+    {
+      "file": "pug_138",
+      "label": 25
+    },
+    {
+      "file": "Bombay_125",
+      "label": 7
+    },
+    {
+      "file": "german_shorthaired_110",
+      "label": 14
+    },
+    {
+      "file": "Russian_Blue_10",
+      "label": 27
+    },
+    {
+      "file": "great_pyrenees_139",
+      "label": 15
+    },
+    {
+      "file": "Maine_Coon_143",
+      "label": 20
+    },
+    {
+      "file": "boxer_182",
+      "label": 8
+    },
+    {
+      "file": "British_Shorthair_120",
+      "label": 9
+    },
+    {
+      "file": "havanese_190",
+      "label": 16
+    },
+    {
+      "file": "Abyssinian_170",
+      "label": 0
+    },
+    {
+      "file": "Abyssinian_149",
+      "label": 0
+    },
+    {
+      "file": "newfoundland_133",
+      "label": 22
+    },
+    {
+      "file": "Russian_Blue_172",
+      "label": 27
+    },
+    {
+      "file": "saint_bernard_103",
+      "label": 28
+    },
+    {
+      "file": "Maine_Coon_160",
+      "label": 20
+    },
+    {
+      "file": "boxer_103",
+      "label": 8
+    },
+    {
+      "file": "scottish_terrier_111",
+      "label": 30
+    },
+    {
+      "file": "Ragdoll_118",
+      "label": 26
+    },
+    {
+      "file": "newfoundland_143",
+      "label": 22
+    },
+    {
+      "file": "Bengal_123",
+      "label": 5
+    },
+    {
+      "file": "shiba_inu_15",
+      "label": 31
+    },
+    {
+      "file": "Sphynx_183",
+      "label": 33
+    },
+    {
+      "file": "scottish_terrier_127",
+      "label": 30
+    },
+    {
+      "file": "english_setter_130",
+      "label": 13
+    },
+    {
+      "file": "newfoundland_14",
+      "label": 22
+    },
+    {
+      "file": "boxer_120",
+      "label": 8
+    },
+    {
+      "file": "staffordshire_bull_terrier_169",
+      "label": 34
+    },
+    {
+      "file": "german_shorthaired_174",
+      "label": 14
+    },
+    {
+      "file": "Bengal_179",
+      "label": 5
+    },
+    {
+      "file": "saint_bernard_131",
+      "label": 28
+    },
+    {
+      "file": "Persian_112",
+      "label": 23
+    },
+    {
+      "file": "Abyssinian_102",
+      "label": 0
+    },
+    {
+      "file": "pomeranian_116",
+      "label": 24
+    },
+    {
+      "file": "shiba_inu_180",
+      "label": 31
+    },
+    {
+      "file": "japanese_chin_182",
+      "label": 17
+    },
+    {
+      "file": "pomeranian_122",
+      "label": 24
+    },
+    {
+      "file": "great_pyrenees_141",
+      "label": 15
+    },
+    {
+      "file": "British_Shorthair_165",
+      "label": 9
+    },
+    {
+      "file": "Ragdoll_202",
+      "label": 26
+    },
+    {
+      "file": "boxer_122",
+      "label": 8
+    },
+    {
+      "file": "Abyssinian_179",
+      "label": 0
+    },
+    {
+      "file": "Egyptian_Mau_13",
+      "label": 11
+    },
+    {
+      "file": "american_pit_bull_terrier_161",
+      "label": 2
+    },
+    {
+      "file": "shiba_inu_112",
+      "label": 31
+    },
+    {
+      "file": "staffordshire_bull_terrier_149",
+      "label": 34
+    },
+    {
+      "file": "pomeranian_183",
+      "label": 24
+    },
+    {
+      "file": "leonberger_15",
+      "label": 19
+    },
+    {
+      "file": "staffordshire_bull_terrier_124",
+      "label": 34
+    },
+    {
+      "file": "yorkshire_terrier_185",
+      "label": 36
+    },
+    {
+      "file": "Russian_Blue_177",
+      "label": 27
+    },
+    {
+      "file": "Abyssinian_113",
+      "label": 0
+    },
+    {
+      "file": "Bombay_104",
+      "label": 7
+    },
+    {
+      "file": "american_pit_bull_terrier_183",
+      "label": 2
+    },
+    {
+      "file": "pug_11",
+      "label": 25
+    },
+    {
+      "file": "Bombay_175",
+      "label": 7
+    },
+    {
+      "file": "saint_bernard_104",
+      "label": 28
+    },
+    {
+      "file": "japanese_chin_189",
+      "label": 17
+    },
+    {
+      "file": "pug_116",
+      "label": 25
+    },
+    {
+      "file": "Sphynx_103",
+      "label": 33
+    },
+    {
+      "file": "newfoundland_113",
+      "label": 22
+    },
+    {
+      "file": "Russian_Blue_124",
+      "label": 27
+    },
+    {
+      "file": "chihuahua_156",
+      "label": 10
+    },
+    {
+      "file": "american_bulldog_199",
+      "label": 1
+    },
+    {
+      "file": "Birman_135",
+      "label": 6
+    },
+    {
+      "file": "samoyed_11",
+      "label": 29
+    },
+    {
+      "file": "keeshond_136",
+      "label": 18
+    },
+    {
+      "file": "Abyssinian_182",
+      "label": 0
+    },
+    {
+      "file": "leonberger_171",
+      "label": 19
+    },
+    {
+      "file": "english_cocker_spaniel_178",
+      "label": 12
+    },
+    {
+      "file": "american_bulldog_125",
+      "label": 1
+    },
+    {
+      "file": "wheaten_terrier_147",
+      "label": 35
+    },
+    {
+      "file": "pug_15",
+      "label": 25
+    },
+    {
+      "file": "Siamese_141",
+      "label": 32
+    },
+    {
+      "file": "shiba_inu_131",
+      "label": 31
+    },
+    {
+      "file": "British_Shorthair_204",
+      "label": 9
+    },
+    {
+      "file": "Abyssinian_119",
+      "label": 0
+    },
+    {
+      "file": "beagle_189",
+      "label": 4
+    },
+    {
+      "file": "samoyed_159",
+      "label": 29
+    },
+    {
+      "file": "British_Shorthair_103",
+      "label": 9
+    },
+    {
+      "file": "Siamese_207",
+      "label": 32
+    },
+    {
+      "file": "Persian_133",
+      "label": 23
+    },
+    {
+      "file": "Bombay_193",
+      "label": 7
+    },
+    {
+      "file": "basset_hound_149",
+      "label": 3
+    },
+    {
+      "file": "chihuahua_123",
+      "label": 10
+    },
+    {
+      "file": "Siamese_151",
+      "label": 32
+    },
+    {
+      "file": "japanese_chin_173",
+      "label": 17
+    },
+    {
+      "file": "american_bulldog_110",
+      "label": 1
+    },
+    {
+      "file": "basset_hound_187",
+      "label": 3
+    },
+    {
+      "file": "wheaten_terrier_17",
+      "label": 35
+    },
+    {
+      "file": "basset_hound_124",
+      "label": 3
+    },
+    {
+      "file": "pug_101",
+      "label": 25
+    },
+    {
+      "file": "german_shorthaired_186",
+      "label": 14
+    },
+    {
+      "file": "havanese_105",
+      "label": 16
+    },
+    {
+      "file": "boxer_150",
+      "label": 8
+    },
+    {
+      "file": "english_cocker_spaniel_130",
+      "label": 12
+    },
+    {
+      "file": "Abyssinian_156",
+      "label": 0
+    },
+    {
+      "file": "american_bulldog_130",
+      "label": 1
+    },
+    {
+      "file": "keeshond_172",
+      "label": 18
+    },
+    {
+      "file": "Persian_161",
+      "label": 23
+    },
+    {
+      "file": "english_cocker_spaniel_146",
+      "label": 12
+    },
+    {
+      "file": "scottish_terrier_129",
+      "label": 30
+    },
+    {
+      "file": "wheaten_terrier_168",
+      "label": 35
+    },
+    {
+      "file": "havanese_137",
+      "label": 16
+    },
+    {
+      "file": "staffordshire_bull_terrier_163",
+      "label": 34
+    },
+    {
+      "file": "chihuahua_127",
+      "label": 10
+    },
+    {
+      "file": "newfoundland_170",
+      "label": 22
+    },
+    {
+      "file": "keeshond_167",
+      "label": 18
+    },
+    {
+      "file": "Sphynx_192",
+      "label": 33
+    },
+    {
+      "file": "Birman_103",
+      "label": 6
+    },
+    {
+      "file": "miniature_pinscher_163",
+      "label": 21
+    },
+    {
+      "file": "leonberger_187",
+      "label": 19
+    },
+    {
+      "file": "keeshond_182",
+      "label": 18
+    },
+    {
+      "file": "english_cocker_spaniel_109",
+      "label": 12
+    },
+    {
+      "file": "pug_191",
+      "label": 25
+    },
+    {
+      "file": "yorkshire_terrier_154",
+      "label": 36
+    },
+    {
+      "file": "english_cocker_spaniel_126",
+      "label": 12
+    },
+    {
+      "file": "keeshond_178",
+      "label": 18
+    },
+    {
+      "file": "Bengal_173",
+      "label": 5
+    },
+    {
+      "file": "boxer_172",
+      "label": 8
+    },
+    {
+      "file": "pug_188",
+      "label": 25
+    },
+    {
+      "file": "Sphynx_134",
+      "label": 33
+    },
+    {
+      "file": "japanese_chin_101",
+      "label": 17
+    },
+    {
+      "file": "newfoundland_166",
+      "label": 22
+    },
+    {
+      "file": "keeshond_171",
+      "label": 18
+    },
+    {
+      "file": "english_setter_133",
+      "label": 13
+    },
+    {
+      "file": "Bengal_130",
+      "label": 5
+    },
+    {
+      "file": "Bengal_101",
+      "label": 5
+    },
+    {
+      "file": "scottish_terrier_141",
+      "label": 30
+    },
+    {
+      "file": "great_pyrenees_17",
+      "label": 15
+    },
+    {
+      "file": "beagle_139",
+      "label": 4
+    },
+    {
+      "file": "saint_bernard_163",
+      "label": 28
+    },
+    {
+      "file": "Siamese_183",
+      "label": 32
+    },
+    {
+      "file": "Maine_Coon_127",
+      "label": 20
+    },
+    {
+      "file": "Russian_Blue_157",
+      "label": 27
+    },
+    {
+      "file": "British_Shorthair_105",
+      "label": 9
+    },
+    {
+      "file": "keeshond_169",
+      "label": 18
+    },
+    {
+      "file": "great_pyrenees_113",
+      "label": 15
+    },
+    {
+      "file": "Birman_163",
+      "label": 6
+    },
+    {
+      "file": "pug_139",
+      "label": 25
+    },
+    {
+      "file": "german_shorthaired_165",
+      "label": 14
+    },
+    {
+      "file": "Bengal_106",
+      "label": 5
+    },
+    {
+      "file": "keeshond_101",
+      "label": 18
+    },
+    {
+      "file": "Russian_Blue_119",
+      "label": 27
+    },
+    {
+      "file": "american_pit_bull_terrier_188",
+      "label": 2
+    },
+    {
+      "file": "german_shorthaired_172",
+      "label": 14
+    },
+    {
+      "file": "British_Shorthair_15",
+      "label": 9
+    },
+    {
+      "file": "yorkshire_terrier_115",
+      "label": 36
+    },
+    {
+      "file": "leonberger_110",
+      "label": 19
+    },
+    {
+      "file": "Ragdoll_111",
+      "label": 26
+    },
+    {
+      "file": "staffordshire_bull_terrier_140",
+      "label": 34
+    },
+    {
+      "file": "scottish_terrier_110",
+      "label": 30
+    },
+    {
+      "file": "beagle_145",
+      "label": 4
+    },
+    {
+      "file": "samoyed_15",
+      "label": 29
+    },
+    {
+      "file": "Maine_Coon_196",
+      "label": 20
+    },
+    {
+      "file": "boxer_160",
+      "label": 8
+    },
+    {
+      "file": "chihuahua_131",
+      "label": 10
+    },
+    {
+      "file": "english_setter_137",
+      "label": 13
+    },
+    {
+      "file": "wheaten_terrier_113",
+      "label": 35
+    },
+    {
+      "file": "Bengal_110",
+      "label": 5
+    },
+    {
+      "file": "newfoundland_12",
+      "label": 22
+    },
+    {
+      "file": "great_pyrenees_161",
+      "label": 15
+    },
+    {
+      "file": "beagle_165",
+      "label": 4
+    },
+    {
+      "file": "newfoundland_142",
+      "label": 22
+    },
+    {
+      "file": "British_Shorthair_159",
+      "label": 9
+    },
+    {
+      "file": "boxer_139",
+      "label": 8
+    },
+    {
+      "file": "Siamese_135",
+      "label": 32
+    },
+    {
+      "file": "chihuahua_175",
+      "label": 10
+    },
+    {
+      "file": "english_setter_138",
+      "label": 13
+    },
+    {
+      "file": "samoyed_167",
+      "label": 29
+    },
+    {
+      "file": "British_Shorthair_162",
+      "label": 9
+    },
+    {
+      "file": "shiba_inu_117",
+      "label": 31
+    },
+    {
+      "file": "Bombay_131",
+      "label": 7
+    },
+    {
+      "file": "japanese_chin_141",
+      "label": 17
+    },
+    {
+      "file": "wheaten_terrier_117",
+      "label": 35
+    },
+    {
+      "file": "boxer_186",
+      "label": 8
+    },
+    {
+      "file": "english_cocker_spaniel_100",
+      "label": 12
+    },
+    {
+      "file": "Russian_Blue_194",
+      "label": 27
+    },
+    {
+      "file": "Maine_Coon_142",
+      "label": 20
+    },
+    {
+      "file": "basset_hound_158",
+      "label": 3
+    },
+    {
+      "file": "Maine_Coon_210",
+      "label": 20
+    },
+    {
+      "file": "Persian_117",
+      "label": 23
+    },
+    {
+      "file": "basset_hound_119",
+      "label": 3
+    },
+    {
+      "file": "Egyptian_Mau_104",
+      "label": 11
+    },
+    {
+      "file": "keeshond_12",
+      "label": 18
+    },
+    {
+      "file": "scottish_terrier_130",
+      "label": 30
+    },
+    {
+      "file": "boxer_14",
+      "label": 8
+    },
+    {
+      "file": "Siamese_173",
+      "label": 32
+    }
+  ]
+}
